@@ -1,4 +1,4 @@
-Ïðèìåð;
+ÐŸÑ€Ð¸Ð¼ÐµÑ€;
 global $USER;
     if ($USER->IsAdmin()) {
       echo "<pre>";
@@ -6,7 +6,7 @@ global $USER;
       echo "</pre>";
   }
 
-Íà ðåëèçå;
+ÐÐ° Ñ€ÐµÐ»Ð¸Ð·Ðµ;
 global $USER;
     if ($USER->IsAdmin()) {
      ____<MY_CODE>____
