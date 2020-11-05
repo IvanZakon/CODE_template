@@ -1,0 +1,13 @@
+Пример;
+global $USER;
+    if ($USER->IsAdmin()) {
+      echo "<pre>";
+      print_r($arResult);
+      echo "</pre>";
+  }
+
+На релизе;
+global $USER;
+    if ($USER->IsAdmin()) {
+     ____<MY_CODE>____
+  }
